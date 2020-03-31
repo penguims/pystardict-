@@ -1,0 +1,2 @@
+# pystardict-
+pystardict enhancement
