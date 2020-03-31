@@ -1,2 +1,2 @@
-# pystardict-
+# pystardict+
 pystardict enhancement
